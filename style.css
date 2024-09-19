@@ -30,7 +30,8 @@ a { text-decoration: none; }
 	
 	.image-container
 	{
-		margin-bottom: 20px;
+		
+		margin: 30px;
 	}
 	
 	nav img
