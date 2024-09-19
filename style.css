@@ -1,0 +1,8 @@
+body { background-color: #1B2A41; color: #F5F5F5; text-align: center; padding-left: 250px; padding-right: 250px;}
+.section { background-color: #3A506B; }
+.button { background-color: #5BC0EB; }
+.accent { color: #3A506B; }
+.border { width: 250px; height: 250px; border: 5px solid #3A506B; border-radius: 15px; box-shadow: 0px 4px 10px rgba(27, 42, 65, 0.5); object-fit: cover; }
+.bgborder { border: 5px solid #3A506B; border-radius: 15px; }
+.text { color: #F5F5F5; }
+.meimg:hover { transform: scale(1.2); }
