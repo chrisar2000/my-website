@@ -1,4 +1,4 @@
-body { background-color: #1B2A41; color: #F5F5F5; text-align: center; padding: 20px; margin: 0;}
+body { background-color: #1B2A41; color: #F5F5F5; text-align: center; padding: 120px; margin: 0;}
 .section { background-color: #3A506B; }
 .button { background-color: #5BC0EB; }
 .accent { color: #3A506B; }
@@ -6,6 +6,8 @@ body { background-color: #1B2A41; color: #F5F5F5; text-align: center; padding: 2
 .bgborder { border: 5px solid #3A506B; border-radius: 15px; padding: 10px; }
 .text { color: #F5F5F5; }
 .meimg:hover { transform: scale(1.2); }
+
+a { text-decoration: none; }
 
 @media (max-width: 768px)
 {
